@@ -1,4 +1,4 @@
-#Grails Micronaut Config Issue
+# Grails Micronaut Config Issue
 
 Grails 4.0.3 introduced a bug where configuration loaded into the Micronaut context is not parsed from camelCase to kebab-case.
 
